@@ -8,7 +8,7 @@ snapshot code form active app for my Customer.
 ### Stack: 
 
 <h3 >Languages and Tools:</h3>
-<p > 
+<p algin='left'> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>&nbsp;&nbsp; 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="37" height="37"/><br/>
 
