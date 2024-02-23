@@ -1,5 +1,5 @@
 # Jack the Coder introduce Rosa Negra SPA v0.8.9
-snapshot code form active app for my Customer.
+snapshot code from active app for my Customer.
 
 ### online develop version: 
 
