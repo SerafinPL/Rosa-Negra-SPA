@@ -8,7 +8,7 @@ snapshot code from active app for my Customer.
 ### Stack: 
 
 <p> 
-![](https://img.shields.io/badge/Linux-Mint%20xfce-green)
+![](https://img.shields.io/badge/Linux-Mint_xfce-green)
 
 ![](https://img.shields.io/badge/git-github-blue)
 
