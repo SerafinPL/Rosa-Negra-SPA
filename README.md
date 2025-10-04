@@ -17,16 +17,15 @@ snapshot code from active app for my Customer.
 ![Static Badge](https://img.shields.io/badge/typescript-5.0-ex?style=plastic&logo=typescript&logoColor=3178C6&color=3178C6)
 ![Static Badge](https://img.shields.io/badge/tailwindcss-3.3.0-ex?style=plastic&logo=tailwindcss&logoColor=06B6D4&color=06B6D4)
 
-![](https://img.shields.io/badge/react-icons-5.0.1-61DBFB)
 </p>
 <p> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="37" height="37"/>&nbsp;&nbsp;  
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="37" height="37"/><br/>
+
 </p> 
  <p> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="37" height="37"/>&nbsp;&nbsp; 
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="37" height="37"/><br/>
+
  </p>
   
 ### and more:
