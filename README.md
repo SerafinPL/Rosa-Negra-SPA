@@ -8,8 +8,10 @@ snapshot code from active app for my Customer.
 ### Stack: 
 
 <p> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>&nbsp;&nbsp; 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="37" height="37"/><br/>
+![](https://img.shields.io/badge/Linux-Mint%20xfce-green)
+
+![](https://img.shields.io/badge/git-github-blue)
+
 </p>
 <p> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="37" height="37"/>&nbsp;&nbsp;  
