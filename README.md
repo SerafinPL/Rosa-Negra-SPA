@@ -9,12 +9,12 @@ snapshot code from active app for my Customer.
 
 <p> 
 
-![](https://img.shields.io/badge/Linux-Mint_xfce-86BE43)
+![Static Badge](https://img.shields.io/badge/linux-mint-xfce?style=plastic&logo=linuxmint)
 ![](https://img.shields.io/badge/git-github-blue)
-![](https://img.shields.io/badge/react-18-61DBFB)
+![](https://img.shields.io/badge/react-18.0-61DBFB)
 ![](https://img.shields.io/badge/react-icons-5.0.1-61DBFB)
 ![](https://img.shields.io/badge/next-14.0.4-3178C6)
-![](https://img.shields.io/badge/typescript-5-3178C6)6366f1
+![](https://img.shields.io/badge/typescript-5.0-3178C6)
 ![](https://img.shields.io/badge/tailwindcss-3.3.0-6366f1)
 
 </p>
