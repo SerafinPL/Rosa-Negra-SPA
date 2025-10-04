@@ -10,7 +10,7 @@ snapshot code from active app for my Customer.
 <p> 
 
 ![Static Badge](https://img.shields.io/badge/linux-mint-xfce?style=plastic&logo=linuxmint)
-![](https://img.shields.io/badge/git-github-blue)
+![Static Badge](https://img.shields.io/badge/git_at_-github-ex?style=plastic&logo=git&logoColor=F05032&color=F05032)
 ![](https://img.shields.io/badge/react-18.0-61DBFB)
 ![](https://img.shields.io/badge/react-icons-5.0.1-61DBFB)
 ![](https://img.shields.io/badge/next-14.0.4-3178C6)
