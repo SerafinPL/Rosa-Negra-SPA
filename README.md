@@ -9,7 +9,7 @@ snapshot code from active app for my Customer.
 
 <p> 
 
-![](https://img.shields.io/badge/Linux-Mint_xfce-#86BE43)
+![](https://img.shields.io/badge/Linux-Mint_xfce-86BE43)
 ![](https://img.shields.io/badge/git-github-blue)
 ![](https://img.shields.io/badge/react-18-blue)
 ![](https://img.shields.io/badge/react-icons-5.0.1-blue)
