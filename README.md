@@ -19,6 +19,33 @@ snapshot code from active app for my Customer.
 ![Static Badge](https://img.shields.io/badge/framer-10.18.0-ex?style=plastic&logo=framer&logoColor=%230055FF&color=%230055FF)
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/SerafinPL/Rosa-Negra-SPA.git
+```
+
+Go to the project directory
+
+```bash
+  cd Rosa-Negra-SPA
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
 ## Author
 
 - [@SerafinPl](https://www.github.com/serafinpl)
