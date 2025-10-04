@@ -44,10 +44,13 @@ Start the server
 ```bash
   npm run dev
 ```
+##
 
+![Logo](https://kubakoder.pl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffavicon.5d6e1adf.png&w=48&q=75)
+### 👨🏻‍💻 Author: [@SerafinPL](https://www.github.com/serafinpl)
 
-## Author
+### 🌐 Author URI: [http://kubakoder.pl](http://kubakoder.pl)
 
-- [@SerafinPl](https://www.github.com/serafinpl)
+##
 
 
