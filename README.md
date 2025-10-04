@@ -11,6 +11,9 @@ snapshot code from active app for my Customer.
 
 ![](https://img.shields.io/badge/Linux-Mint_xfce-green)
 ![](https://img.shields.io/badge/git-github-blue)
+![](https://img.shields.io/badge/react-18-blue)
+![](https://img.shields.io/badge/react-icons-5.0.1-blue)
+![](https://img.shields.io/badge/next-14.0.4-blue)
 
 
 </p>
